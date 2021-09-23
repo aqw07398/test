@@ -5,6 +5,8 @@
 #print( someCalc(3) )
 #print( someCalc(5) )
 
+##
+
 
 #someCalc = lambda a: a*(a-1)
 #print( someCalc(3) )
